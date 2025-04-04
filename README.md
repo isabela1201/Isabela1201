@@ -1,6 +1,6 @@
 👋 Hi! I'm Isabela!
 
-<img src="https://giphy.com/gifs/robot-dance-robotgif-xyz" alt="robot dancing">
+<img src="https://media1.tenor.com/m/3B9fNHbfAxcAAAAC/anime-animecomputer.gif" alt="robot dancing">
 
 🎓 Computer and Informatics Engineering student at **University of Aveiro**  
 🤖 Passionate about **robotics, electronics, computer architecture, and physics**  
