@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Hi! I'm Isabela!
 
-<!--
-**isabela1201/Isabela1201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer and Informatics Engineering student at **University of Aveiro**  
+🤖 Passionate about **robotics, electronics, computer architecture, and physics**  
+💻 Learning and building cool projects in **C, Python, Arduino, and automation**  
 
-Here are some ideas to get you started:
+📊 I have a special love for **Excel** (yes, I enjoy spreadsheets!)  
+🌍 English **C2 Certified (Cambridge Proficiency)**  
+🔍 Always curious—love watching **documentaries on science, history, and technology**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Currently:  
+- Working on **robotics projects** with my university's **Robotics Club**  
+- Exploring **hardware & low-level programming**  
+
+📫 Let's connect:  
+[LinkedIn](www.linkedin.com/in/isabela-pereira-27a80735a) | [Instagram](@sabelssa) | [Email](isabelapereira@ua.pt)
