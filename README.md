@@ -1,6 +1,6 @@
 👋 Hi! I'm Isabela!
 
-<img src="[https://media1.tenor.com/m/3B9fNHbfAxcAAAAC/anime-animecomputer.gif](https://s1.ezgif.com/tmp/ezgif-1086add00e7135.gif)">
+<img src="https://media1.tenor.com/m/3B9fNHbfAxcAAAAC/anime-animecomputer.gif">
 
 🎓 Computer and Informatics Engineering student at **University of Aveiro**  
 🤖 Passionate about **robotics, electronics, computer architecture, and physics**  
