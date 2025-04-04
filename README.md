@@ -13,4 +13,6 @@
 - Exploring **hardware & low-level programming**  
 
 📫 Let's connect:  
-[LinkedIn](www.linkedin.com/in/isabela-pereira-27a80735a) | [Instagram](@sabelssa) | [Email](isabelapereira@ua.pt)
+LinkedIn: www.linkedin.com/in/isabela-pereira-27a80735a 
+Instagram: @sabelssa
+Email: isabelapereira@ua.pt
