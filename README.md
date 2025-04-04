@@ -1,5 +1,7 @@
 👋 Hi! I'm Isabela!
 
+<img src="https://giphy.com/gifs/robot-dance-robotgif-xyz" alt="robot dancing">
+
 🎓 Computer and Informatics Engineering student at **University of Aveiro**  
 🤖 Passionate about **robotics, electronics, computer architecture, and physics**  
 💻 Learning and building cool projects in **C, Python, Arduino, and automation**  
